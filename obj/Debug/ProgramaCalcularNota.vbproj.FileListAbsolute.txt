@@ -1,0 +1,12 @@
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.vbproj.AssemblyReference.cache
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.Form1.resources
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.Resources.resources
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.vbproj.GenerateResource.cache
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.vbproj.CoreCompileInputs.cache
+C:\Users\melen\source\repos\ProgramaCalcularNota\bin\Debug\ProgramaCalcularNota.exe.config
+C:\Users\melen\source\repos\ProgramaCalcularNota\bin\Debug\ProgramaCalcularNota.exe
+C:\Users\melen\source\repos\ProgramaCalcularNota\bin\Debug\ProgramaCalcularNota.pdb
+C:\Users\melen\source\repos\ProgramaCalcularNota\bin\Debug\ProgramaCalcularNota.xml
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.exe
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.xml
+C:\Users\melen\source\repos\ProgramaCalcularNota\obj\Debug\ProgramaCalcularNota.pdb
